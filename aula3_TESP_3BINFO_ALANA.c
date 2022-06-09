@@ -1,7 +1,5 @@
 /****************************************************************************** 
 
-Aluno: Alana Rodrigues Franzen
-
 Código que simula uma calculadora que faz a soma de dois número, mas precisa estar ligada para funcionar.
 
 *******************************************************************************/ 
